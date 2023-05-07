@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/view_picture"
+        android:title="View picture" />
+    <item
+        android:id="@+id/manufacturer_details"
+        android:title="Manufucturer details" />
+    <item
+        android:id="@+id/car_dealers"
+        android:title="Car dealers" />
+</menu>

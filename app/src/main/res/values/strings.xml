@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Project2</string>
+
+    <string-array name="carNames">
+        <item>Mazda 3</item>
+        <item>Ford Mustang</item>
+        <item>Dodge Charger</item>
+        <item>Chevrolet Corvette</item>
+        <item>Jeep Wrangler</item>
+        <item>GMC Sierra 1500</item>
+        <item>Cadillac Eescalade</item>
+        <item>Tesla Model S</item>
+        <item>Chciago</item>
+    </string-array>
+
+    <string-array name="manufacturerLinks">
+        <item>https://www.mazdausa.com/vehicles/mazda3-sedan</item>
+        <item>https://www.ford.com/cars/mustang/</item>
+        <item>https://www.dodge.com/charger.html</item>
+        <item>https://www.chevrolet.com/performance/corvette</item>
+        <item>https://www.jeep.com/wrangler.html</item>
+        <item>https://www.gmc.com/trucks/sierra/1500</item>
+        <item>https://www.cadillac.com/suvs/escalade</item>
+        <item>https://www.tesla.com/models</item>
+        <item>https://www.google.com</item>
+    </string-array>
+</resources>
